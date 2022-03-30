@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Hellomixy.com][1]
 - 📫 How to reach me: hi@tpett.me
-
-[1]: https://www.hellomixy.com
 
 <!--
 **tpett/tpett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

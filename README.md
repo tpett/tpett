@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 - 📫 How to reach me: hi@tpett.me
+- [Launch Supply](https://www.launchsupply.com)
+- [Here Facts](https://www.herefacts.com)
 
 <!--
 **tpett/tpett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
